@@ -1,0 +1,15 @@
+{
+  "name": "dare-dev-admin",
+  "version": "1.0.0",
+  "description": "Admin scripts for a DareDev event.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "All rights reserved.",
+  "dependencies": {
+    "firebase": "^2.2.5"
+  }
+}
